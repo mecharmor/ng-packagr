@@ -45,7 +45,7 @@
     "dependency-graph": "^0.11.0",
     "esbuild-wasm": "^0.19.0",
     "fast-glob": "^3.2.12",
-    "find-cache-dir": "^3.3.2",
+    "find-cache-dir": "^5.0.0",
     "injection-js": "^2.4.0",
     "jsonc-parser": "^3.2.0",
     "less": "^4.1.3",
